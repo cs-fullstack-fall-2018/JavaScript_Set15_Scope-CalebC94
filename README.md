@@ -1,6 +1,3 @@
-# JavaScript_Set15_Scope
-JavaScript Scoping Chain
-
 # JS Closures / Scoping exercises
 
 1. What’s the result of executing this code and why.
